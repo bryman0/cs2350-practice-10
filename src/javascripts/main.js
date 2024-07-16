@@ -72,8 +72,7 @@ function displayCards() {
                 </div>
                 </div>
             </div>
-        </div>
-        `
+        </div>`
         ndx++
     }
 
@@ -87,7 +86,6 @@ function displayCards() {
             }
         }
     })
-
     hideForm()
 }
 
